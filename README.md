@@ -1,4 +1,4 @@
-# Veterinary registry! `<span style="color:#6b21a8;font-family:ui-monospace,SFMono-Regular,'Liberation Mono','Courier New',monospace;font-size:1.75rem;line-height:1.2;">`Vue 3 + TypeScript + Vite</span>
+# Veterinary registry! <span style="color:#6b21a8;font-family:ui-monospace,SFMono-Regular,'Liberation Mono','Courier New',monospace;font-size:1.75rem;line-height:1.2;">Vue 3 + TypeScript + Vite</span>
 
 Este proyecto es un reimplementación del _Módulo 4_ del curso [Vue.js 3 - La Guía Completa - Composition Pinia MEVN 10 Apps](https://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales/) de [Juan Pablo De La Torre Valdez](https://www.udemy.com/user/juanpablodelatorrevaldez/).
 
