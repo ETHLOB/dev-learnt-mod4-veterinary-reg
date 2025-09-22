@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Build and assets directories
+material/
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Husky files
+.husky/_
+
+# Environment files
+.env
+.env.*.local
+
+# Pictures and media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.svg
+
+# Lock files
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
