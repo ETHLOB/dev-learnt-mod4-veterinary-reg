@@ -1,5 +1,5 @@
-# Vue 3 + TypeScript + Vite
+# Veterinary registry! `<span style="color:#6b21a8;font-family:ui-monospace,SFMono-Regular,'Liberation Mono','Courier New',monospace;font-size:1.75rem;line-height:1.2;">`Vue 3 + TypeScript + Vite</span>
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto es un reimplementación del _Módulo 4_ del curso [Vue.js 3 - La Guía Completa - Composition Pinia MEVN 10 Apps](https://www.udemy.com/course/vuejs-la-guia-completa-composition-pinia-mevn-creando-proyectos-reales/) de [Juan Pablo De La Torre Valdez](https://www.udemy.com/user/juanpablodelatorrevaldez/).
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+EL objetivo de este repositorio es practicar Vue 3, TypeScript y Vite. En este módulo, implementamos una aplicación sencilla para una agenda de una veterinaria llamada _"Veterinary patient's follow-up"_. Todos los derechos de los `Assets` usados en este proyecto pertenecen a su autor. Sin embargo, la reimplementación de los componentes y módulos en `TypeScript` es original, de mi autoría, basada en el código original del autor, y puede presentar refactorizaciones. Tiene licencia MIT, así que siéntete libre de usar este proyecto como base para tus propios proyectos _(incluso si son de caracter académico)_, **siempre y cuando SEA REIMPLEMENTADO usando otros `Assets`** 🙂.
