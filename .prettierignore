@@ -1,0 +1,20 @@
+# Build outputs
+dist/
+dist-ssr/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Lock files
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Husky internals
+.husky/_/
+
+# Material folder (as per your .gitignore)
+material/
